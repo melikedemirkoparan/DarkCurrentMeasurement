@@ -1,3 +1,7 @@
+## Farklı pozlama süreleri ile çekim yapıp kaydeden kod
+
+
+
 import subprocess
 import os
 
